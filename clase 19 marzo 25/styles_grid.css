@@ -1,0 +1,155 @@
+body{
+    background-color:rgb(51, 51, 51);
+}
+
+.pagina{
+    display: grid;
+    grid-template-rows: 2fr 3fr 1fr;
+
+}
+.morado{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    
+}
+
+.morado_arriba{
+    text-align: center; 
+    padding: 20px; 
+    margin: 10px;
+    background-color: rgb(147, 15, 235);
+    border-radius: 20px;
+}
+
+.morado_abajo{
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+    padding: 20px;
+   
+
+    
+}
+
+.morado_abajo_c1{
+    background-color: rgb(147, 15, 235);
+    margin: 2px;
+    text-align: center; 
+    border-radius: 20px;
+    margin-right: 20px;
+
+}
+.morado_abajo_c2{
+    background-color: rgb(147, 15, 235);
+    margin: 2px;
+    text-align: center; 
+    border-radius: 20px;
+    margin-right: 20px;
+
+
+}
+.morado_abajo_c3{
+    background-color: rgb(147, 15, 235);
+    padding: 20px;
+    text-align: center; 
+    border-radius: 20px;
+
+}
+.amarillo{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    padding: 20px;
+    margin: 2px;
+
+}
+.amarillo_der{
+    display: grid;
+    grid-template-rows: 2fr;
+    background-color: rgb(255, 255, 0);
+    text-align: center;
+    padding: 20px;
+    margin: 2px;
+    border-radius: 20px;
+
+
+ 
+}	
+.amarillo_izq{
+    display: grid;
+    grid-template-rows: 2fr 2fr;
+    
+    text-align: center;
+    padding: 20px;
+    margin: 2px;
+    border-radius: 20px;
+
+    
+
+ 
+}
+.arriba{
+    display: grid;
+    grid-template-rows: 1fr;
+    padding: 20px;
+    margin: 2px;
+    background-color: rgb(255, 255, 0);
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+.abajo{
+    display: grid;
+    grid-template-rows: 1fr;
+    padding: 20px;
+    margin: 2px;
+    background-color: rgb(255, 255, 0);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 10px;
+
+}
+
+.azul{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px;
+    
+}
+
+.azul_1{
+    background-color: rgb(13, 200, 233);
+    margin: 2px;
+    text-align: center; 
+    border-radius: 20px;
+    margin-right: 20px;
+   
+
+
+}
+
+.azul_2{
+    background-color: rgb(13, 200, 233);
+    padding: 20px;
+    text-align: center; 
+    border-radius: 20px;
+    margin-right: 20px;
+
+
+}
+
+.azul_3{
+    background-color: rgb(13, 200, 233);
+    padding: 20px;
+    text-align: center; 
+    border-radius: 20px;
+    margin-right: 20px;
+
+
+}
+
+
+
+
+
+
+
